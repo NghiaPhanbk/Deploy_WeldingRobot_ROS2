@@ -117,6 +117,7 @@ def generate_launch_description():
             trajectory_execution,
             moveit_controllers,
             planning_scene_monitor_parameters,
+             {"use_sim_time": True},
             moveit_config.to_dict()
         ],
     )
@@ -153,6 +154,7 @@ def generate_launch_description():
             robot_description_semantic,
             # ompl_planning_pipeline_config,
             kinematics_yaml,
+             {"use_sim_time": True},
         ],
         # condition=UnlessCondition(tutorial_mode),
     )
@@ -172,7 +174,7 @@ def generate_launch_description():
         executable="robot_state_publisher",
         name="robot_state_publisher",
         output="both",
-        parameters=[robot_description],
+        parameters=[robot_description, {"use_sim_time": True}],
     )
 
     # ros2_control using FakeSystem as hardware
@@ -315,11 +317,11 @@ def generate_launch_description():
             # # mongodb_server_node,
 
             #gazebo node
-            # env_var,
-            # model_arg,
-            # start_gazebo_server,
-            # start_gazebo_client,
-            # spawn_robot,
+            env_var,
+            model_arg,
+            start_gazebo_server,
+            start_gazebo_client,
+            spawn_robot,
 
         ]
         # + load_controllers

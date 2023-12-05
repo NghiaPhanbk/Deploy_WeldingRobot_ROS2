@@ -6,8 +6,8 @@
         <ros2_control name="${name}" type="system">
             <hardware>
                 <!-- By default, set up controllers for simulation. This won't work on real hardware -->
-                <plugin>mock_components/GenericSystem</plugin>
-                <!-- <plugin>gazebo_ros2_control/GazeboSystem</plugin> -->
+                <!-- <plugin>mock_components/GenericSystem</plugin> -->
+                <plugin>gazebo_ros2_control/GazeboSystem</plugin>
             </hardware>
             <joint name="joint_1">
                 <command_interface name="position"/>
@@ -52,7 +52,6 @@
                 <state_interface name="velocity"/>
             </joint>
         </ros2_control>
-
 
         <transmission name="link_1_trans">
           <type>transmission_interface/SimpleTransmission</type>
@@ -121,9 +120,10 @@
         </transmission>
 
 
-        <gazebo>
+        <gazebo>          
           <plugin filename="libgazebo_ros2_control.so" name="gazebo_ros2_control">
             <!-- <robotNamespace>/</robotNamespace> -->
+            <robotSimType>gazebo_ros2_control/GazeboSystem</robotSimType>
             <parameters>$(find Robot_ver2)/config/ros2_controllers.yaml</parameters>
           </plugin>
         </gazebo>
