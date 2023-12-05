@@ -1,0 +1,114 @@
+[0.731s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/rosparam_shortcuts -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts
+[0.801s] -- The C compiler identification is GNU 11.4.0
+[0.871s] -- The CXX compiler identification is GNU 11.4.0
+[0.879s] -- Detecting C compiler ABI info
+[0.899s] -- Detecting C compiler ABI info - done
+[0.901s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.901s] -- Detecting C compile features
+[0.902s] -- Detecting C compile features - done
+[0.904s] -- Detecting CXX compiler ABI info
+[0.966s] -- Detecting CXX compiler ABI info - done
+[0.972s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.973s] -- Detecting CXX compile features
+[0.973s] -- Detecting CXX compile features - done
+[0.975s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.120s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.190s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.195s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.196s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.227s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.231s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.237s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.248s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.263s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.367s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[1.415s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.417s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.493s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.513s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.550s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.557s] -- Looking for pthread.h
+[1.609s] -- Looking for pthread.h - found
+[1.609s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.659s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.661s] -- Found Threads: TRUE  
+[1.848s] -- Found tf2_eigen: 0.25.4 (/opt/ros/humble/share/tf2_eigen/cmake)
+[2.456s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.459s] -- Found ament_cmake_gtest: 1.3.5 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[2.462s] -- Found ros_testing: 0.4.0 (/opt/ros/humble/share/ros_testing/cmake)
+[2.467s] -- Found launch_testing_ament_cmake: 1.0.4 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[2.469s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.495s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.503s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.503s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.503s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.503s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.524s] -- Found PythonExtra: .so  
+[2.597s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[2.609s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.610s] -- Added test 'lint_cmake' to check CMake code style
+[2.611s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.612s] -- Added test 'xmllint' to check XML markup files
+[2.614s] -- Configuring done
+[2.653s] -- Generating done
+[2.656s] -- Build files have been written to: /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts
+[2.702s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/rosparam_shortcuts -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts
+[2.704s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts -- -j12 -l12
+[2.754s] [  7%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[2.760s] [ 30%] [32mBuilding CXX object CMakeFiles/rosparam_shortcuts.dir/src/node_parameters.cpp.o[0m
+[2.761s] [ 30%] [32mBuilding CXX object CMakeFiles/rosparam_shortcuts.dir/src/rosparam_shortcuts.cpp.o[0m
+[2.762s] [ 30%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[4.050s] [ 38%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[4.090s] [ 38%] Built target gtest_main
+[14.354s] [ 46%] [32m[1mLinking CXX shared library librosparam_shortcuts.so[0m
+[14.406s] [ 53%] [32m[1mLinking CXX static library libgtest.a[0m
+[14.444s] [ 53%] Built target gtest
+[14.471s] [ 53%] Built target rosparam_shortcuts
+[14.487s] [ 61%] [32mBuilding CXX object CMakeFiles/test_node_parameters.dir/test/test_node_parameters.cpp.o[0m
+[14.488s] [ 69%] [32mBuilding CXX object CMakeFiles/rosparam_shortcuts_node_parameters_example.dir/src/node_parameters_example.cpp.o[0m
+[14.492s] [ 76%] [32mBuilding CXX object CMakeFiles/rosparam_shortcuts_example.dir/src/example.cpp.o[0m
+[18.376s] [ 84%] [32m[1mLinking CXX executable node_parameters_example[0m
+[18.505s] [ 84%] Built target rosparam_shortcuts_node_parameters_example
+[18.588s] [ 92%] [32m[1mLinking CXX executable example[0m
+[18.703s] [ 92%] Built target rosparam_shortcuts_example
+[20.420s] [100%] [32m[1mLinking CXX executable test_node_parameters[0m
+[20.524s] [100%] Built target test_node_parameters
+[20.534s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts -- -j12 -l12
+[20.559s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts
+[20.564s] -- Install configuration: "Release"
+[20.564s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/librosparam_shortcuts.so
+[20.565s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/librosparam_shortcuts.so" to ""
+[20.565s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/example
+[20.565s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/example" to ""
+[20.565s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/node_parameters_example
+[20.565s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/node_parameters_example" to ""
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts/node_parameters.h
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts/rosparam_shortcuts.h
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/launch
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/launch/example.launch.py
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/config
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/config/example.yaml
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.sh
+[20.566s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.dsv
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/package_run_dependencies/rosparam_shortcuts
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/parent_prefix_path/rosparam_shortcuts
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.sh
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.dsv
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.sh
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.dsv
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.bash
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.sh
+[20.567s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.zsh
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.dsv
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/package.dsv
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/packages/rosparam_shortcuts
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport-release.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_targets-extras.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_dependencies-extras.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig-version.cmake
+[20.568s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/package.xml
+[20.569s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts

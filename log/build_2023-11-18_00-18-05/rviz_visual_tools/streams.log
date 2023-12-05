@@ -1,0 +1,88 @@
+[0.499s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/rviz_visual_tools -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/rviz_visual_tools
+[0.938s] -- The C compiler identification is GNU 11.4.0
+[0.938s] -- The CXX compiler identification is GNU 11.4.0
+[0.939s] -- Detecting C compiler ABI info
+[0.939s] -- Detecting C compiler ABI info - done
+[0.939s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.939s] -- Detecting C compile features
+[0.939s] -- Detecting C compile features - done
+[0.939s] -- Detecting CXX compiler ABI info
+[0.939s] -- Detecting CXX compiler ABI info - done
+[0.939s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.939s] -- Detecting CXX compile features
+[0.939s] -- Detecting CXX compile features - done
+[0.939s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.011s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.138s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[1.180s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.186s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.192s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.204s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.221s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.296s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.298s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.384s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.404s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.443s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.452s] -- Looking for pthread.h
+[1.505s] -- Looking for pthread.h - found
+[1.505s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.554s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.555s] -- Found Threads: TRUE  
+[1.730s] -- Found rclcpp_components: 16.0.6 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.810s] -- Found rviz_ogre_vendor: 11.2.8 (/opt/ros/humble/share/rviz_ogre_vendor/cmake)
+[1.810s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[1.812s] -- Found OGRE
+[1.812s] --   static     : OFF
+[1.812s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[1.812s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[1.812s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[1.813s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[1.813s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[1.813s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[1.813s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[1.813s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[1.813s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[1.813s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[1.813s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[1.830s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[1.833s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[1.900s] -- Found X11: /usr/include   
+[1.901s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[1.949s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[1.949s] -- Looking for gethostbyname
+[1.993s] -- Looking for gethostbyname - found
+[1.993s] -- Looking for connect
+[2.037s] -- Looking for connect - found
+[2.038s] -- Looking for remove
+[2.084s] -- Looking for remove - found
+[2.084s] -- Looking for shmat
+[2.129s] -- Looking for shmat - found
+[2.129s] -- Looking for IceConnectionNumber in ICE
+[2.173s] -- Looking for IceConnectionNumber in ICE - found
+[2.174s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[2.175s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[2.176s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.283s] -- Found shape_msgs: 4.2.3 (/opt/ros/humble/share/shape_msgs/cmake)
+[2.338s] -- Found visualization_msgs: 4.2.3 (/opt/ros/humble/share/visualization_msgs/cmake)
+[2.444s] -- Found trajectory_msgs: 4.2.3 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[2.517s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.523s] [31mCMake Error at CMakeLists.txt:29 (find_package):
+[2.523s]   By not providing "Findeigen_stl_containers.cmake" in CMAKE_MODULE_PATH this
+[2.523s]   project has asked CMake to find a package configuration file provided by
+[2.523s]   "eigen_stl_containers", but CMake did not find one.
+[2.523s] 
+[2.523s]   Could not find a package configuration file provided by
+[2.523s]   "eigen_stl_containers" with any of the following names:
+[2.523s] 
+[2.524s]     eigen_stl_containersConfig.cmake
+[2.524s]     eigen_stl_containers-config.cmake
+[2.524s] 
+[2.524s]   Add the installation prefix of "eigen_stl_containers" to CMAKE_PREFIX_PATH
+[2.524s]   or set "eigen_stl_containers_DIR" to a directory containing one of the
+[2.524s]   above files.  If "eigen_stl_containers" provides a separate development
+[2.524s]   package or SDK, be sure it has been installed.
+[2.524s] 
+[2.524s] [0m
+[2.524s] -- Configuring incomplete, errors occurred!
+[2.524s] See also "/home/nghiaphanbk/WeldingRobot_ws/build/rviz_visual_tools/CMakeFiles/CMakeOutput.log".

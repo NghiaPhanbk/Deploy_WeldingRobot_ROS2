@@ -1,0 +1,27 @@
+[0.653s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/src/Model_Robot': PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/prefix_override:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Model_Robot build --build-base /home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/build install --record /home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/install.log --single-version-externally-managed
+[0.857s] running egg_info
+[0.857s] writing ../../build/Model_Robot/Model_Robot.egg-info/PKG-INFO
+[0.858s] writing dependency_links to ../../build/Model_Robot/Model_Robot.egg-info/dependency_links.txt
+[0.858s] writing entry points to ../../build/Model_Robot/Model_Robot.egg-info/entry_points.txt
+[0.858s] writing requirements to ../../build/Model_Robot/Model_Robot.egg-info/requires.txt
+[0.858s] writing top-level names to ../../build/Model_Robot/Model_Robot.egg-info/top_level.txt
+[0.859s] reading manifest file '../../build/Model_Robot/Model_Robot.egg-info/SOURCES.txt'
+[0.860s] writing manifest file '../../build/Model_Robot/Model_Robot.egg-info/SOURCES.txt'
+[0.860s] running build
+[0.860s] running build_py
+[0.860s] running install
+[0.860s] running install_lib
+[0.861s] running install_data
+[0.862s] copying meshes/link_6.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.862s] copying meshes/link_5.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.862s] copying meshes/link_4.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.862s] copying meshes/link_3.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.863s] copying meshes/link_1.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.863s] copying meshes/base_link.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.863s] copying meshes/link_2.STL -> /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/share/Model_Robot/meshes
+[0.863s] running install_egg_info
+[0.864s] removing '/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/lib/python3.10/site-packages/Model_Robot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.865s] Copying ../../build/Model_Robot/Model_Robot.egg-info to /home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/lib/python3.10/site-packages/Model_Robot-0.0.0-py3.10.egg-info
+[0.865s] running install_scripts
+[0.879s] writing list of installed files to '/home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/install.log'
+[0.894s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/src/Model_Robot' returned '0': PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/prefix_override:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Model_Robot build --build-base /home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/build install --record /home/nghiaphanbk/WeldingRobot_ws/build/Model_Robot/install.log --single-version-externally-managed

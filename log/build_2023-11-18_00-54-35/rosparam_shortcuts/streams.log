@@ -1,0 +1,49 @@
+[0.698s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts -- -j12 -l12
+[0.774s] [35m[1mConsolidate compiler generated dependencies of target rosparam_shortcuts[0m
+[0.782s] [ 23%] Built target rosparam_shortcuts
+[0.782s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[0.786s] [ 38%] Built target gtest
+[0.795s] [35m[1mConsolidate compiler generated dependencies of target rosparam_shortcuts_node_parameters_example[0m
+[0.809s] [ 53%] Built target rosparam_shortcuts_node_parameters_example
+[0.817s] [35m[1mConsolidate compiler generated dependencies of target rosparam_shortcuts_example[0m
+[0.830s] [ 69%] Built target rosparam_shortcuts_example
+[0.839s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[0.847s] [ 84%] Built target gtest_main
+[0.856s] [35m[1mConsolidate compiler generated dependencies of target test_node_parameters[0m
+[0.870s] [100%] Built target test_node_parameters
+[1.160s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts -- -j12 -l12
+[1.700s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts
+[1.707s] -- Install configuration: "Release"
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/librosparam_shortcuts.so
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/example
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/lib/rosparam_shortcuts/node_parameters_example
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts/node_parameters.h
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/include/rosparam_shortcuts/rosparam_shortcuts.h
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/launch
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/launch/example.launch.py
+[1.709s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/config
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/config/example.yaml
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.sh
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/library_path.dsv
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/package_run_dependencies/rosparam_shortcuts
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/parent_prefix_path/rosparam_shortcuts
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.sh
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/ament_prefix_path.dsv
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.sh
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/environment/path.dsv
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.bash
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.sh
+[1.710s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.zsh
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/local_setup.dsv
+[1.711s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/package.dsv
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/ament_index/resource_index/packages/rosparam_shortcuts
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport.cmake
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/export_rosparam_shortcutsExport-release.cmake
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_targets-extras.cmake
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig.cmake
+[1.711s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/cmake/rosparam_shortcutsConfig-version.cmake
+[1.713s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/rosparam_shortcuts/share/rosparam_shortcuts/package.xml
+[1.720s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/rosparam_shortcuts

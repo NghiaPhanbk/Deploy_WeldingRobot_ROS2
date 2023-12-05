@@ -1,0 +1,16 @@
+{
+  "package_name": "moveit_task_constructor_msgs",
+  "non_idl_tuples": [
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/Property.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/Solution.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/SolutionInfo.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/StageDescription.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/StageStatistics.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/SubSolution.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/SubTrajectory.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/TaskDescription.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:msg/TaskStatistics.msg",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:srv/GetSolution.srv",
+    "/home/nghiaphanbk/WeldingRobot_ws/src/moveit_task_constructor/msgs:action/ExecuteTaskSolution.action"
+  ]
+}

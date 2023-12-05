@@ -1,0 +1,43 @@
+[0.735s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description -- -j12 -l12
+[1.099s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.099s] -- Configuring done
+[1.099s] -- Generating done
+[1.100s] -- Build files have been written to: /home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description
+[1.103s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description -- -j12 -l12
+[1.138s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description
+[1.154s] -- Install configuration: "Release"
+[1.154s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/ament_index/resource_index/package_run_dependencies/moveit_resources_fanuc_description
+[1.155s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/ament_index/resource_index/parent_prefix_path/moveit_resources_fanuc_description
+[1.155s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/environment/ament_prefix_path.sh
+[1.155s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/environment/ament_prefix_path.dsv
+[1.155s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/environment/path.sh
+[1.156s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/environment/path.dsv
+[1.156s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/local_setup.bash
+[1.156s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/local_setup.sh
+[1.157s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/local_setup.zsh
+[1.157s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/local_setup.dsv
+[1.158s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/package.dsv
+[1.158s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/ament_index/resource_index/packages/moveit_resources_fanuc_description
+[1.158s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig.cmake
+[1.158s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/cmake/moveit_resources_fanuc_descriptionConfig-version.cmake
+[1.159s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/package.xml
+[1.159s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes
+[1.159s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision
+[1.161s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_1.stl
+[1.161s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_6.stl
+[1.161s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/base_link.stl
+[1.161s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_2.stl
+[1.164s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_3.stl
+[1.164s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_5.stl
+[1.164s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/collision/link_4.stl
+[1.165s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual
+[1.166s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_1.stl
+[1.166s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_6.stl
+[1.166s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/base_link.stl
+[1.169s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_2.stl
+[1.169s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_3.stl
+[1.169s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_5.stl
+[1.170s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/meshes/visual/link_4.stl
+[1.170s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/urdf
+[1.170s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_resources_fanuc_description/share/moveit_resources_fanuc_description/urdf/fanuc.urdf
+[1.285s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description' returned '0': CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_resources_fanuc_description

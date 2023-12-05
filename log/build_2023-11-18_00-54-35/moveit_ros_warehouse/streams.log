@@ -1,0 +1,80 @@
+[0.378s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse -- -j12 -l12
+[0.411s] [35m[1mConsolidate compiler generated dependencies of target moveit_warehouse[0m
+[0.420s] [  5%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/moveit_message_storage.cpp.o[0m
+[6.356s] [ 10%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/state_storage.cpp.o[0m
+[11.548s] [ 15%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/trajectory_constraints_storage.cpp.o[0m
+[16.531s] [ 20%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/constraints_storage.cpp.o[0m
+[23.475s] [ 25%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/planning_scene_world_storage.cpp.o[0m
+[37.560s] [ 30%] [32mBuilding CXX object CMakeFiles/moveit_warehouse.dir/src/planning_scene_storage.cpp.o[0m
+[51.810s] [ 35%] [32m[1mLinking CXX shared library libmoveit_warehouse.so[0m
+[52.479s] [ 40%] Built target moveit_warehouse
+[52.506s] [ 45%] [32mBuilding CXX object CMakeFiles/moveit_warehouse_broadcast.dir/src/broadcast.cpp.o[0m
+[66.567s] [ 50%] [32m[1mLinking CXX executable moveit_warehouse_broadcast[0m
+[66.876s] [ 50%] Built target moveit_warehouse_broadcast
+[66.910s] [ 55%] [32mBuilding CXX object CMakeFiles/moveit_warehouse_services.dir/src/warehouse_services.cpp.o[0m
+[66.912s] [ 60%] [32mBuilding CXX object CMakeFiles/moveit_init_demo_warehouse.dir/src/initialize_demo_db.cpp.o[0m
+[66.915s] [ 65%] [32mBuilding CXX object CMakeFiles/moveit_warehouse_save_as_text.dir/src/save_as_text.cpp.o[0m
+[66.916s] [ 70%] [32mBuilding CXX object CMakeFiles/moveit_warehouse_import_from_text.dir/src/import_from_text.cpp.o[0m
+[66.928s] [ 75%] [32mBuilding CXX object CMakeFiles/moveit_save_to_warehouse.dir/src/save_to_warehouse.cpp.o[0m
+[82.732s] [ 80%] [32m[1mLinking CXX executable moveit_warehouse_services[0m
+[83.158s] [ 80%] Built target moveit_warehouse_services
+[84.812s] [ 85%] [32m[1mLinking CXX executable moveit_warehouse_save_as_text[0m
+[85.189s] [ 85%] Built target moveit_warehouse_save_as_text
+[85.442s] [ 90%] [32m[1mLinking CXX executable moveit_init_demo_warehouse[0m
+[85.814s] [ 90%] Built target moveit_init_demo_warehouse
+[86.025s] [ 95%] [32m[1mLinking CXX executable moveit_warehouse_import_from_text[0m
+[86.353s] [ 95%] Built target moveit_warehouse_import_from_text
+[100.636s] [100%] [32m[1mLinking CXX executable moveit_save_to_warehouse[0m
+[101.316s] [100%] Built target moveit_save_to_warehouse
+[101.335s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse -- -j12 -l12
+[101.403s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse
+[101.415s] -- Install configuration: "Release"
+[101.415s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_save_to_warehouse
+[101.418s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_save_to_warehouse" to ""
+[101.418s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_broadcast
+[101.419s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_broadcast" to ""
+[101.419s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_import_from_text
+[101.420s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_import_from_text" to ""
+[101.420s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_save_as_text
+[101.421s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_save_as_text" to ""
+[101.421s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_init_demo_warehouse
+[101.421s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_init_demo_warehouse" to ""
+[101.422s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_services
+[101.423s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/moveit_ros_warehouse/moveit_warehouse_services" to ""
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/moveit_message_storage.h
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/planning_scene_storage.h
+[101.423s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/state_storage.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/warehouse_connector.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/trajectory_constraints_storage.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/planning_scene_world_storage.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit/warehouse/constraints_storage.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/include/moveit_warehouse_export.h
+[101.424s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so.2.5.5
+[101.426s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so.2.5.5" to ""
+[101.426s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/lib/libmoveit_warehouse.so
+[101.426s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/library_path.sh
+[101.426s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/library_path.dsv
+[101.427s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/package_run_dependencies/moveit_ros_warehouse
+[101.427s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/parent_prefix_path/moveit_ros_warehouse
+[101.427s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/ament_prefix_path.sh
+[101.427s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/ament_prefix_path.dsv
+[101.428s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/path.sh
+[101.428s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/environment/path.dsv
+[101.428s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.bash
+[101.428s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.sh
+[101.429s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.zsh
+[101.429s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/local_setup.dsv
+[101.429s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/package.dsv
+[101.430s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/ament_index/resource_index/packages/moveit_ros_warehouse
+[101.430s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/export_moveit_ros_warehouseExport.cmake
+[101.431s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/export_moveit_ros_warehouseExport-release.cmake
+[101.431s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ConfigExtras.cmake
+[101.431s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ament_cmake_export_targets-extras.cmake
+[101.431s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/ament_cmake_export_dependencies-extras.cmake
+[101.432s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig.cmake
+[101.432s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/cmake/moveit_ros_warehouseConfig-version.cmake
+[101.432s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_warehouse/share/moveit_ros_warehouse/package.xml
+[101.452s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_planning/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_warehouse

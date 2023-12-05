@@ -1,0 +1,120 @@
+[0.186s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/moveit2/moveit_plugins/moveit_ros_control_interface -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface
+[0.269s] -- The C compiler identification is GNU 11.4.0
+[0.352s] -- The CXX compiler identification is GNU 11.4.0
+[0.362s] -- Detecting C compiler ABI info
+[0.468s] -- Detecting C compiler ABI info - done
+[0.483s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.483s] -- Detecting C compile features
+[0.484s] -- Detecting C compile features - done
+[0.489s] -- Detecting CXX compiler ABI info
+[0.608s] -- Detecting CXX compiler ABI info - done
+[0.624s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.624s] -- Detecting CXX compile features
+[0.625s] -- Detecting CXX compile features - done
+[0.629s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.938s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.089s] -- Found rclcpp_action: 16.0.6 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.160s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.169s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.185s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.209s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.240s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.519s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.525s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.688s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.736s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.816s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.833s] -- Looking for pthread.h
+[1.933s] -- Looking for pthread.h - found
+[1.933s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.033s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.034s] -- Found Threads: TRUE  
+[2.416s] -- Found controller_manager_msgs: 2.32.0 (/opt/ros/humble/share/controller_manager_msgs/cmake)
+[2.534s] -- Found moveit_core: 2.5.5 (/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/share/moveit_core/cmake)
+[2.586s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[2.643s] -- Found parameter_traits: 0.3.6 (/opt/ros/humble/share/parameter_traits/cmake)
+[2.664s] -- Found rclcpp_lifecycle: 16.0.6 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[2.692s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[2.844s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[3.222s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.222s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.395s] -- Found moveit_simple_controller_manager: 2.5.5 (/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/share/moveit_simple_controller_manager/cmake)
+[4.399s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread 
+[4.902s] -- Found moveit_common: 2.5.5 (/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common/share/moveit_common/cmake)
+[5.010s] -- Found libdw: /usr/lib/x86_64-linux-gnu/libdw.so  
+[5.015s] -- Could NOT find libbfd (missing: LIBBFD_LIBRARY LIBBFD_INCLUDE_DIR) 
+[5.015s] -- BACKWARD_HAS_UNWIND=1
+[5.015s] -- BACKWARD_HAS_BACKTRACE=0
+[5.015s] -- BACKWARD_HAS_BACKTRACE_SYMBOL=0
+[5.015s] -- BACKWARD_HAS_DW=1
+[5.015s] -- BACKWARD_HAS_BFD=0
+[5.016s] -- Found Backward: /opt/ros/humble/share/backward_ros/cmake  
+[5.031s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system thread 
+[5.056s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.073s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.073s] -- Configured cppcheck include dirs: /home/nghiaphanbk/WeldingRobot_ws/src/moveit2/moveit_plugins/moveit_ros_control_interface/include
+[5.073s] -- Configured cppcheck exclude dirs and/or files: 
+[5.074s] -- Added test 'lint_cmake' to check CMake code style
+[5.075s] -- Added test 'xmllint' to check XML markup files
+[5.077s] -- Configuring done
+[5.141s] -- Generating done
+[5.143s] -- Build files have been written to: /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface
+[5.158s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/moveit2/moveit_plugins/moveit_ros_control_interface -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface
+[5.161s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface -- -j12 -l12
+[5.210s] [ 12%] [32mBuilding CXX object CMakeFiles/moveit_ros_control_interface_plugin.dir/src/controller_manager_plugin.cpp.o[0m
+[5.216s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_ros_control_interface_gripper_plugin.dir/src/gripper_controller_plugin.cpp.o[0m
+[5.216s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_ros_control_interface_empty_plugin.dir/src/empty_controller_plugin.cpp.o[0m
+[5.216s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_ros_control_interface_trajectory_plugin.dir/src/joint_trajectory_controller_plugin.cpp.o[0m
+[10.494s] [ 62%] [32m[1mLinking CXX shared library libmoveit_ros_control_interface_empty_plugin.so[0m
+[10.817s] [ 62%] Built target moveit_ros_control_interface_empty_plugin
+[11.217s] [ 75%] [32m[1mLinking CXX shared library libmoveit_ros_control_interface_gripper_plugin.so[0m
+[11.414s] [ 75%] Built target moveit_ros_control_interface_gripper_plugin
+[12.907s] [ 87%] [32m[1mLinking CXX shared library libmoveit_ros_control_interface_trajectory_plugin.so[0m
+[13.102s] [ 87%] Built target moveit_ros_control_interface_trajectory_plugin
+[18.553s] [100%] [32m[1mLinking CXX shared library libmoveit_ros_control_interface_plugin.so[0m
+[18.770s] [100%] Built target moveit_ros_control_interface_plugin
+[18.780s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface -- -j12 -l12
+[18.806s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface
+[18.813s] -- Install configuration: "Release"
+[18.813s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_plugin.so.2.5.5
+[18.814s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_plugin.so.2.5.5" to ""
+[18.814s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_plugin.so
+[18.814s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_trajectory_plugin.so.2.5.5
+[18.814s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_trajectory_plugin.so.2.5.5" to ""
+[18.815s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_trajectory_plugin.so
+[18.815s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_gripper_plugin.so.2.5.5
+[18.815s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_gripper_plugin.so.2.5.5" to ""
+[18.815s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_gripper_plugin.so
+[18.815s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_empty_plugin.so.2.5.5
+[18.815s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_empty_plugin.so.2.5.5" to ""
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_empty_plugin.so
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/include
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/include/moveit_ros_control_interface
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/include/moveit_ros_control_interface/ControllerHandle.h
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/moveit_core_plugins.xml
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/moveit_ros_control_interface_plugins.xml
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/library_path.sh
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/library_path.dsv
+[18.816s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/ament_index/resource_index/package_run_dependencies/moveit_ros_control_interface
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/ament_index/resource_index/parent_prefix_path/moveit_ros_control_interface
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/ament_prefix_path.sh
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/ament_prefix_path.dsv
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/path.sh
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/environment/path.dsv
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/local_setup.bash
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/local_setup.sh
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/local_setup.zsh
+[18.817s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/local_setup.dsv
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/package.dsv
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/ament_index/resource_index/packages/moveit_ros_control_interface
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/ament_index/resource_index/moveit_core__pluginlib__plugin/moveit_ros_control_interface
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/ament_index/resource_index/moveit_ros_control_interface__pluginlib__plugin/moveit_ros_control_interface
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/export_moveit_ros_control_interfaceExport.cmake
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/export_moveit_ros_control_interfaceExport-release.cmake
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/ConfigExtras.cmake
+[18.818s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/ament_cmake_export_targets-extras.cmake
+[18.819s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[18.819s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig.cmake
+[18.819s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig-version.cmake
+[18.819s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit_ros_control_interface/share/moveit_ros_control_interface/package.xml
+[18.820s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_common:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble LD_LIBRARY_PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_simple_controller_manager/lib:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/lib:/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/nghiaphanbk/WeldingRobot_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit_ros_control_interface

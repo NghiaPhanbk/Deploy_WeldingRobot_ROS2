@@ -1,0 +1,50 @@
+[1.927s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/src/launch_param_builder': PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/prefix_override:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_param_builder build --build-base /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build install --record /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/install.log --single-version-externally-managed
+[2.169s] running egg_info
+[2.169s] creating ../../build/launch_param_builder/launch_param_builder.egg-info
+[2.170s] writing ../../build/launch_param_builder/launch_param_builder.egg-info/PKG-INFO
+[2.170s] writing dependency_links to ../../build/launch_param_builder/launch_param_builder.egg-info/dependency_links.txt
+[2.171s] writing entry points to ../../build/launch_param_builder/launch_param_builder.egg-info/entry_points.txt
+[2.171s] writing requirements to ../../build/launch_param_builder/launch_param_builder.egg-info/requires.txt
+[2.171s] writing top-level names to ../../build/launch_param_builder/launch_param_builder.egg-info/top_level.txt
+[2.171s] writing manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[2.172s] reading manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[2.172s] adding license file 'LICENSE'
+[2.172s] writing manifest file '../../build/launch_param_builder/launch_param_builder.egg-info/SOURCES.txt'
+[2.172s] running build
+[2.173s] running build_py
+[2.173s] creating /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build
+[2.173s] creating /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib
+[2.173s] creating /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder
+[2.174s] copying launch_param_builder/launch_param_builder.py -> /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder
+[2.174s] copying launch_param_builder/utils.py -> /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder
+[2.174s] copying launch_param_builder/__init__.py -> /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder
+[2.174s] running install
+[2.174s] running install_lib
+[2.174s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[2.175s] copying /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder/launch_param_builder.py -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[2.175s] copying /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder/utils.py -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[2.175s] copying /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build/lib/launch_param_builder/__init__.py -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder
+[2.175s] byte-compiling /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/launch_param_builder.py to launch_param_builder.cpython-310.pyc
+[2.175s] byte-compiling /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/utils.py to utils.cpython-310.pyc
+[2.176s] byte-compiling /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder/__init__.py to __init__.cpython-310.pyc
+[2.176s] running install_data
+[2.176s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/ament_index
+[2.176s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/ament_index/resource_index
+[2.176s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/ament_index/resource_index/packages
+[2.176s] copying resource/launch_param_builder -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/ament_index/resource_index/packages
+[2.177s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/launch
+[2.177s] copying example/launch_param_builder_example.launch.py -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/launch
+[2.177s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.177s] copying test/data/parameters.yaml -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.178s] copying test/data/parameter.xacro -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.178s] copying test/data/parameters_injection.yaml -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.178s] copying test/data/parameter_file -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.178s] copying test/data/param_file_to_inject.yaml -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder/config
+[2.178s] copying package.xml -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/share/launch_param_builder
+[2.179s] creating /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/launch_param_builder
+[2.179s] copying example/example_node.py -> /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/launch_param_builder
+[2.179s] running install_egg_info
+[2.179s] Copying ../../build/launch_param_builder/launch_param_builder.egg-info to /home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch_param_builder-0.1.1-py3.10.egg-info
+[2.179s] running install_scripts
+[2.182s] writing list of installed files to '/home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/install.log'
+[2.269s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/src/launch_param_builder' returned '0': PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/prefix_override:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/launch_param_builder build --build-base /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/build install --record /home/nghiaphanbk/WeldingRobot_ws/build/launch_param_builder/install.log --single-version-externally-managed
