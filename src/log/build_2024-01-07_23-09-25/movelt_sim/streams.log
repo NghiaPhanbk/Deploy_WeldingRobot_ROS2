@@ -1,0 +1,58 @@
+[0.118s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/movelt_sim -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim
+[0.161s] -- The C compiler identification is GNU 11.4.0
+[0.207s] -- The CXX compiler identification is GNU 11.4.0
+[0.212s] -- Detecting C compiler ABI info
+[0.270s] -- Detecting C compiler ABI info - done
+[0.278s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.278s] -- Detecting C compile features
+[0.278s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.349s] -- Detecting CXX compiler ABI info - done
+[0.358s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.358s] -- Detecting CXX compile features
+[0.359s] -- Detecting CXX compile features - done
+[0.363s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.547s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.705s] -- Configuring done
+[0.707s] -- Generating done
+[0.708s] -- Build files have been written to: /home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim
+[0.713s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/movelt_sim -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim
+[0.715s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim -- -j12 -l12
+[0.746s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim -- -j12 -l12
+[0.775s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim
+[0.782s] -- Install configuration: ""
+[0.782s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/ament_index/resource_index/package_run_dependencies/movelt_sim
+[0.782s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/ament_index/resource_index/parent_prefix_path/movelt_sim
+[0.782s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/environment/ament_prefix_path.sh
+[0.782s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/environment/ament_prefix_path.dsv
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/environment/path.sh
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/environment/path.dsv
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/local_setup.bash
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/local_setup.sh
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/local_setup.zsh
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/local_setup.dsv
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/package.dsv
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/ament_index/resource_index/packages/movelt_sim
+[0.783s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/cmake/movelt_simConfig.cmake
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/cmake/movelt_simConfig-version.cmake
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/package.xml
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/move_group.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/setup_assistant.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/spawn_controllers.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/demo.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/rsp.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/static_virtual_joint_tfs.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/warehouse_db.launch.py
+[0.784s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/launch/moveit_rviz.launch.py
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/pilz_cartesian_limits.yaml
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/welding_robot.srdf
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/welding_robot.ros2_control.xacro
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/welding_robot.urdf
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/initial_positions.yaml
+[0.785s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/moveit.rviz
+[0.786s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/joint_limits.yaml
+[0.786s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/config/kinematics.yaml
+[0.786s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/src/install/movelt_sim/share/movelt_sim/.setup_assistant
+[0.837s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim' returned '0': AMENT_PREFIX_PATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble PYTHONPATH=/home/nghiaphanbk/WeldingRobot_ws/src/install/Model_Robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/src/build/movelt_sim

@@ -14,6 +14,7 @@
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/cmake/Robot_ver2Config-version.cmake
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/package.xml
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/launch/move_group.launch.py
+/home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/launch/Move_Robot.launch.py
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/launch/setup_assistant.launch.py
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/launch/spawn_controllers.launch.py
 /home/nghiaphanbk/WeldingRobot_ws/install/Robot_ver2/share/Robot_ver2/launch/demo.launch.py

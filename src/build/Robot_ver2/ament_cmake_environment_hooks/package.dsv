@@ -1,0 +1,4 @@
+source;share/Robot_ver2/local_setup.bash
+source;share/Robot_ver2/local_setup.dsv
+source;share/Robot_ver2/local_setup.sh
+source;share/Robot_ver2/local_setup.zsh

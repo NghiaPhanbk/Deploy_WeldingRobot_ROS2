@@ -1,0 +1,8 @@
+[0.424s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts
+[0.445s] [31mCMake Error at CMakeLists.txt:46:
+[0.446s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.446s]   "​".
+[0.446s] 
+[0.446s] [0m
+[0.446s] -- Configuring incomplete, errors occurred!
+[0.448s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts -DCMAKE_INSTALL_PREFIX=/home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts

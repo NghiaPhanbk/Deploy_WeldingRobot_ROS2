@@ -1,0 +1,15 @@
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/ament_index/resource_index/package_run_dependencies/moveit2_scripts
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/ament_index/resource_index/parent_prefix_path/moveit2_scripts
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/environment/ament_prefix_path.sh
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/environment/ament_prefix_path.dsv
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/environment/path.sh
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/environment/path.dsv
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/local_setup.bash
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/local_setup.sh
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/local_setup.zsh
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/local_setup.dsv
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/package.dsv
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/ament_index/resource_index/packages/moveit2_scripts
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/cmake/moveit2_scriptsConfig.cmake
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/cmake/moveit2_scriptsConfig-version.cmake
+/home/nghiaphanbk/WeldingRobot_ws/src/install/moveit2_scripts/share/moveit2_scripts/package.xml

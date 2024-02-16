@@ -1,0 +1,40 @@
+[0.415s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts -- -j12 -l12
+[0.457s] [35m[1mConsolidate compiler generated dependencies of target test_trajectory[0m
+[0.480s] [ 50%] [32mBuilding CXX object CMakeFiles/test_trajectory.dir/src/test_trajectory.cpp.o[0m
+[4.200s] [01m[K/home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts/src/test_trajectory.cpp:[m[K In member function ‘[01m[Kvoid TestTrajectory::plan_arm_joint_space()[m[K’:
+[4.200s] [01m[K/home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts/src/test_trajectory.cpp:50:106:[m[K [01;35m[Kwarning: [m[K‘[01m[Kusing MoveItErrorCode = class moveit::core::MoveItErrorCode[m[K’ is deprecated: Use moveit::core::MoveItErrorCode [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+[4.200s]    50 | (my_plan_arm) == moveit::planning_interface::MoveItErrorCode::[01;35m[KSUCCESS[m[K);
+[4.200s]       |                                                               [01;35m[K^~~~~~~[m[K
+[4.200s] 
+[4.200s] In file included from [01m[K/home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts/src/test_trajectory.cpp:1[m[K:
+[4.200s] [01m[K/opt/ros/humble/include/moveit/move_group_interface/move_group_interface.h:71:7:[m[K [01;36m[Knote: [m[Kdeclared here
+[4.200s]    71 | using [01;36m[KMoveItErrorCode[m[K [[deprecated("Use moveit::core::MoveItErrorCode")]] = moveit::core::MoveItErrorCode;
+[4.200s]       |       [01;36m[K^~~~~~~~~~~~~~~[m[K
+[4.200s] [01m[K/home/nghiaphanbk/WeldingRobot_ws/src/moveit2_scripts/src/test_trajectory.cpp:50:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Ksuccess_arm[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+[4.200s]    50 |     bool [01;35m[Ksuccess_arm[m[K = (move_group_arm.plan(my_plan_arm) == moveit::planning_interface::MoveItErrorCode::SUCCESS);
+[4.200s]       |          [01;35m[K^~~~~~~~~~~[m[K
+[6.344s] [100%] [32m[1mLinking CXX executable test_trajectory[0m
+[6.610s] [100%] Built target test_trajectory
+[6.620s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts -- -j12 -l12
+[6.643s] Invoking command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts
+[6.649s] -- Install configuration: ""
+[6.649s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/lib/moveit2_scripts/test_trajectory
+[6.650s] -- Set runtime path of "/home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/lib/moveit2_scripts/test_trajectory" to ""
+[6.650s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/launch
+[6.650s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/launch/test_trajectory.launch.py
+[6.650s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/ament_index/resource_index/package_run_dependencies/moveit2_scripts
+[6.650s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/ament_index/resource_index/parent_prefix_path/moveit2_scripts
+[6.650s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/environment/ament_prefix_path.sh
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/environment/ament_prefix_path.dsv
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/environment/path.sh
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/environment/path.dsv
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/local_setup.bash
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/local_setup.sh
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/local_setup.zsh
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/local_setup.dsv
+[6.651s] -- Installing: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/package.dsv
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/ament_index/resource_index/packages/moveit2_scripts
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/cmake/moveit2_scriptsConfig.cmake
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/cmake/moveit2_scriptsConfig-version.cmake
+[6.651s] -- Up-to-date: /home/nghiaphanbk/WeldingRobot_ws/install/moveit2_scripts/share/moveit2_scripts/package.xml
+[6.652s] Invoked command in '/home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nghiaphanbk/WeldingRobot_ws/install/moveit_configs_utils:/home/nghiaphanbk/WeldingRobot_ws/install/launch_param_builder:/home/nghiaphanbk/WeldingRobot_ws/install/Model_Robot:/home/nghiaphanbk/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/nghiaphanbk/WeldingRobot_ws/build/moveit2_scripts
